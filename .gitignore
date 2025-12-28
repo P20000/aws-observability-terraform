@@ -1,0 +1,16 @@
+# Prerequisites: High-weight folders
+.terraform/
+venv/
+
+# Security: Never share private keys or state
+*.pem
+*.tfstate
+*.tfstate.backup
+
+# Terraform locks and workspace files
+.terraform.lock.hcl
+*.code-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
