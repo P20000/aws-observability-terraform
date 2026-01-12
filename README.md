@@ -1,6 +1,8 @@
 # Cloud-Native Observability Stack ☁️
 **Automated AWS Infrastructure with Terraform, CloudWatch, and Python**
 
+![1766940254538](https://github.com/user-attachments/assets/90dc02db-e289-4b25-b514-ce34a890cfae)
+
 ##  Project Overview
 This project demonstrates a production-ready infrastructure-as-code (IaC) setup designed to bridge the gap between application development and cloud operations. It provisions a secure, monitored, and cost-optimized environment on AWS.
 
@@ -26,3 +28,4 @@ This project demonstrates a production-ready infrastructure-as-code (IaC) setup 
 ##  Monitoring & Cost Results
 - **Dashboard:** Provides a single-pane-of-glass view of instance health.
 - **Cost Savings:** The Boto3 script identifies unattached Elastic IPs which can save ~$3.60/month per address in waste.
+![1766940244114](https://github.com/user-attachments/assets/9383813f-baab-47ca-96c0-8b7dbea99e36)
