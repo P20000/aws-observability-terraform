@@ -28,4 +28,5 @@ This project demonstrates a production-ready infrastructure-as-code (IaC) setup 
 ##  Monitoring & Cost Results
 - **Dashboard:** Provides a single-pane-of-glass view of instance health.
 - **Cost Savings:** The Boto3 script identifies unattached Elastic IPs which can save ~$3.60/month per address in waste.
-![1766940244114](https://github.com/user-attachments/assets/9383813f-baab-47ca-96c0-8b7dbea99e36)
+![1766940244114](https://github.com/user-attachments/assets/1e111d13-9c83-48a9-be2d-f32c738d6a2c)
+
